@@ -1,3 +1,4 @@
+const assert = require('assert');
 /**
  * @description
  * This module contains a function that takes two numbers and an operation string
